@@ -1,23 +1,44 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Design/Proxy/Subject.cs">
+﻿<Properties StartupConfiguration="{BCB3125E-DF14-8198-B2D6-34F9E2E1C581}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Design/Factory/Abstract Factory/AppleProduct.cs">
     <Files>
-      <File FileName="Assets/Scripts/Design/Proxy/RealSubject.cs" Line="12" Column="1" />
-      <File FileName="Assets/Scripts/Design/Proxy/Subject.cs" Line="12" Column="2" />
-      <File FileName="Assets/Scripts/Design/Test.cs" Line="26" Column="30" />
-      <File FileName="Assets/Scripts/Design/Proxy/Proxy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Design/Test.cs" Line="12" Column="51" />
+      <File FileName="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationFactory.cs" Line="11" Column="28" />
+      <File FileName="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationAdd.cs" Line="7" Column="37" />
+      <File FileName="Assets/Scripts/Design/Factory/Simple Factory Pattern/Operation.cs" Line="8" Column="25" />
+      <File FileName="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationSub.cs" Line="5" Column="26" />
+      <File FileName="Assets/Scripts/Design/Factory/IElectronic.cs" Line="10" Column="17" />
+      <File FileName="Assets/Scripts/Design/Factory/Factory Method/Factory.cs" Line="24" Column="23" />
+      <File FileName="Assets/Scripts/Design/Factory/Factory Method/Product.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/Design/Factory/Factory Method/ProductA.cs" Line="6" Column="22" />
+      <File FileName="Assets/Scripts/Design/Factory/Factory Method/ProductB.cs" Line="9" Column="6" />
+      <File FileName="Assets/Scripts/Design/Factory/Factory Method/FactoryA.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/Design/Factory/Factory Method/FactoryB.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/Design/Proxy/Subject.cs" Line="13" Column="20" />
+      <File FileName="Assets/Scripts/Design/Proxy/RealSubject.cs" Line="7" Column="33" />
+      <File FileName="Assets/Scripts/Design/Proxy/Proxy.cs" Line="8" Column="33" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/AbstractFactory.cs" Line="8" Column="58" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/AppleProduct.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/AbstractAppleProduct.cs" Line="5" Column="14" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/AbstractHuaWeiProduct.cs" Line="5" Column="35" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/ShangHaiFactory.cs" Line="17" Column="42" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/ShenZhenFactory.cs" Line="5" Column="29" />
+      <File FileName="Assets/Scripts/Design/Factory/Abstract Factory/HuaWeiProduct.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="unityLearn" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="Assets" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="Design" expanded="True">
-                    <Node name="Proxy" expanded="True">
-                      <Node name="Proxy.cs" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Design" expanded="True">
+                  <Node name="Factory" expanded="True">
+                    <Node name="Abstract Factory" expanded="True">
+                      <Node name="AppleProduct.cs" selected="True" />
                     </Node>
+                    <Node name="Factory Method" expanded="True" />
+                    <Node name="Simple Factory Pattern" expanded="True" />
                   </Node>
+                  <Node name="Proxy" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -28,7 +49,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ab91aaaa-fd58-4007-83c1-06c2e55896e9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4a3df6fc-0f34-4e79-b518-156b354d7cc4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
