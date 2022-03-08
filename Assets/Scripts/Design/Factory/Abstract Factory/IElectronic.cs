@@ -5,7 +5,6 @@ using UnityEngine;
 // 产品系列 定义了些基础的产品
 public interface IElectronic
 {
-    string sd;
     void Phone();
     void Pad();
     void Watch();
