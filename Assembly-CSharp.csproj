@@ -78,6 +78,7 @@
     <Compile Include="Assets/Scripts/Design/Factory/Factory Method/ProductB.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Factory Method/FactoryA.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Factory Method/FactoryB.cs" />
+    <Compile Include="Assets/Scripts/Design/Singleton/SingleObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
