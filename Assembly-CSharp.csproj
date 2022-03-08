@@ -56,15 +56,15 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/Designode/Factory/ShangHaiFactory.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/HuaWeiProduct.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/ShenZhenFactory.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/AppleProduct.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/AbstractHuaWeiProduct.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/IElectronic.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/AbstractAppleProduct.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/FactoryTest.cs" />
-    <Compile Include="Assets/Scripts/Designode/Factory/AbstractFactory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/FactoryTest.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/ShenZhenFactory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/IElectronic.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/HuaWeiProduct.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/ShangHaiFactory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/AbstractHuaWeiProduct.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/AppleProduct.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/AbstractAppleProduct.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/AbstractFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
