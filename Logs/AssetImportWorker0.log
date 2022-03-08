@@ -2790,3 +2790,19 @@ Received Import Request.
 Start importing Assets/Scripts/Design/Factory/Abstract Factory/UML.jpg using Guid(c7cffd70fc0c54612b2c06d5b2992222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dccf2393535b4599a663269b08437fa') in 0.010716 seconds 
   Import took 0.015049 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 417.507083 seconds.
+  path: Assets/Scripts/Design/Factory/Abstract Factory/121646730961_.pic.jpg
+  artifactKey: Guid(b4a21e4033d4846af956a4147cb1e22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Design/Factory/Abstract Factory/121646730961_.pic.jpg using Guid(b4a21e4033d4846af956a4147cb1e22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96d0dec346202ae6f5f4e03cf832a7d') in 0.016894 seconds 
+  Import took 0.022092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.158829 seconds.
+  path: Assets/Scripts/Design/Factory/Abstract Factory/UML.jpg
+  artifactKey: Guid(b4a21e4033d4846af956a4147cb1e22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Design/Factory/Abstract Factory/UML.jpg using Guid(b4a21e4033d4846af956a4147cb1e22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577070d3102458b373919936a79e5eeb') in 0.010955 seconds 
+  Import took 0.014655 seconds .
+
