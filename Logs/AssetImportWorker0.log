@@ -422,3 +422,19 @@ Received Import Request.
 Start importing Assets/Scripts/Design/Proxy/31646720496_.pic.jpg using Guid(a9cc0c7416062488c9cdb8e5c6b81f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4429f73a0c1cede89b898b4a380969') in 0.074551 seconds 
   Import took 0.078881 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 123.390699 seconds.
+  path: Assets/Scripts/Design/Proxy/_.pic.jpg
+  artifactKey: Guid(a9cc0c7416062488c9cdb8e5c6b81f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Design/Proxy/_.pic.jpg using Guid(a9cc0c7416062488c9cdb8e5c6b81f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4cb5ce0ac5595dd6741fad1cb6f008a') in 0.010207 seconds 
+  Import took 0.013971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.103301 seconds.
+  path: Assets/Scripts/Design/Proxy/uml.jpg
+  artifactKey: Guid(a9cc0c7416062488c9cdb8e5c6b81f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Design/Proxy/uml.jpg using Guid(a9cc0c7416062488c9cdb8e5c6b81f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97e0dfcc4653ac84bd2a6bb981c5935') in 0.010135 seconds 
+  Import took 0.014138 seconds .
+
