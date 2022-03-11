@@ -1,8 +1,19 @@
 ﻿<Properties StartupConfiguration="{BCB3125E-DF14-8198-B2D6-34F9E2E1C581}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Design/Test.cs">
     <Files>
-      <File FileName="Assets/Scripts/Design/Singleton/SingleObject.cs" Line="7" Column="32" />
-      <File FileName="Assets/Scripts/Design/Test.cs" Line="20" Column="9" />
+      <File FileName="Assets/Scripts/Design/Builder/Coke.cs" Line="4" Column="25" />
+      <File FileName="Assets/Scripts/Design/Builder/ColdDrink.cs" Line="10" Column="29" />
+      <File FileName="Assets/Scripts/Design/Builder/IFoodItem.cs" Line="2" Column="18" />
+      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="11" Column="19" />
+      <File FileName="Assets/Scripts/Design/Builder/Bottle.cs" Line="4" Column="31" />
+      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="9" Column="24" />
+      <File FileName="Assets/Scripts/Design/Builder/Packing.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Design/Builder/Wrapper.cs" Line="4" Column="14" />
+      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="2" Column="29" />
+      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="2" Column="14" />
+      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/Design/Test.cs" Line="68" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,11 +22,7 @@
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Design" expanded="True">
-                  <Node name="Factory" expanded="True">
-                    <Node name="Abstract Factory" expanded="True" />
-                    <Node name="Factory Method" expanded="True" />
-                    <Node name="Simple Factory Pattern" expanded="True" />
-                  </Node>
+                  <Node name="Builder" expanded="True" />
                   <Node name="Proxy" expanded="True" />
                   <Node name="Singleton" expanded="True" />
                   <Node name="Test.cs" selected="True" />
@@ -29,7 +36,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4a3df6fc-0f34-4e79-b518-156b354d7cc4" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="039cff62-be34-4fa4-84eb-58b95c589698" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

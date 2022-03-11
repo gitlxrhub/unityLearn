@@ -64,6 +64,14 @@ public class Test : MonoBehaviour
         */
 
 
+        ///*
+        #region 建造者模式
+        MealBuilder mealBuilder = new MealBuilder();
+        Meal packageA = mealBuilder.PackageA();
+        packageA.ShowItems();
+        Debug.Log("套餐A"+ packageA.GetCost());
+        #endregion
+        //*/
     }
 
 }

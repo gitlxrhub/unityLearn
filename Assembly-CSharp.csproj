@@ -56,29 +56,41 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Design/Builder/Packing.cs" />
+    <Compile Include="Assets/Scripts/Design/Proxy/RealSubject.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/FactoryA.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/FactoryB.cs" />
     <Compile Include="Assets/Scripts/Design/Test.cs" />
+    <Compile Include="Assets/Scripts/Design/Proxy/Proxy.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/Bottle.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/Coke.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/Product.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/ShenZhenFactory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationFactory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/Operation.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/IElectronic.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/IFoodItem.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/HuaWeiProduct.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/ShangHaiFactory.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AbstractHuaWeiProduct.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AppleProduct.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AbstractAppleProduct.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AbstractFactory.cs" />
-    <Compile Include="Assets/Scripts/Design/Proxy/RealSubject.cs" />
-    <Compile Include="Assets/Scripts/Design/Proxy/Subject.cs" />
-    <Compile Include="Assets/Scripts/Design/Proxy/Proxy.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/Operation.cs" />
     <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationAdd.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationSub.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationFactory.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/Factory.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/Product.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/ProductA.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/ProductB.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/FactoryA.cs" />
-    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/FactoryB.cs" />
     <Compile Include="Assets/Scripts/Design/Singleton/SingleObject.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AppleProduct.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Simple Factory Pattern/OperationSub.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AbstractAppleProduct.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/Wrapper.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/ProductB.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/Factory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Abstract Factory/AbstractFactory.cs" />
+    <Compile Include="Assets/Scripts/Design/Factory/Factory Method/ProductA.cs" />
+    <Compile Include="Assets/Scripts/Design/Proxy/Subject.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/ColdDrink.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/Pepsi.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/MealBuilder.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/VagBurger.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/Meal.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/Burger.cs" />
+    <Compile Include="Assets/Scripts/Design/Builder/ChickenBurger.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
