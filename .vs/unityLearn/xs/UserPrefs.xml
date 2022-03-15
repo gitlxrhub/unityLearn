@@ -1,19 +1,9 @@
 ﻿<Properties StartupConfiguration="{BCB3125E-DF14-8198-B2D6-34F9E2E1C581}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Design/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Design/Prototype/BaseClone.cs">
     <Files>
-      <File FileName="Assets/Scripts/Design/Builder/Coke.cs" Line="4" Column="25" />
-      <File FileName="Assets/Scripts/Design/Builder/ColdDrink.cs" Line="10" Column="29" />
-      <File FileName="Assets/Scripts/Design/Builder/IFoodItem.cs" Line="2" Column="18" />
-      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="11" Column="19" />
-      <File FileName="Assets/Scripts/Design/Builder/Bottle.cs" Line="4" Column="31" />
-      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="9" Column="24" />
-      <File FileName="Assets/Scripts/Design/Builder/Packing.cs" Line="9" Column="1" />
-      <File FileName="Assets/Scripts/Design/Builder/Wrapper.cs" Line="4" Column="14" />
-      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="34" Column="6" />
-      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="2" Column="29" />
-      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="2" Column="14" />
-      <File FileName="Assets/Scripts/Design/Builder/NewClass.cs" Line="12" Column="6" />
-      <File FileName="Assets/Scripts/Design/Test.cs" Line="68" Column="1" />
+      <File FileName="Assets/Scripts/Design/Test.cs" Line="103" Column="11" />
+      <File FileName="Assets/Scripts/Design/Prototype/BaseClone.cs" Line="21" Column="54" />
+      <File FileName="Assets/Scripts/Design/Prototype/Person.cs" Line="5" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,9 +13,29 @@
               <Node name="Scripts" expanded="True">
                 <Node name="Design" expanded="True">
                   <Node name="Builder" expanded="True" />
+                  <Node name="Prototype" expanded="True">
+                    <Node name="BaseClone.cs" selected="True" />
+                  </Node>
                   <Node name="Proxy" expanded="True" />
                   <Node name="Singleton" expanded="True" />
-                  <Node name="Test.cs" selected="True" />
+                </Node>
+                <Node name="grammar" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="UnityEditor.TestRunner" expanded="True">
+              <Node name="Library" expanded="True">
+                <Node name="PackageCache" expanded="True">
+                  <Node name="com.unity.test-framework@1.1.29" expanded="True">
+                    <Node name="UnityEditor.TestRunner" expanded="True">
+                      <Node name="Api" expanded="True" />
+                      <Node name="TestRun" expanded="True">
+                        <Node name="Tasks" expanded="True" />
+                      </Node>
+                      <Node name="TestRunner" expanded="True">
+                        <Node name="Utils" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
                 </Node>
               </Node>
             </Node>
@@ -36,7 +46,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="039cff62-be34-4fa4-84eb-58b95c589698" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="09a0f621-755c-4b97-a9a6-5534cd3a16c3" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

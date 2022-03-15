@@ -64,14 +64,43 @@ public class Test : MonoBehaviour
         */
 
 
-        ///*
+        /*
         #region 建造者模式
         MealBuilder mealBuilder = new MealBuilder();
         Meal packageA = mealBuilder.PackageA();
         packageA.ShowItems();
         Debug.Log("套餐A"+ packageA.GetCost());
         #endregion
-        //*/
+        */
+
+        /*
+        #region
+        Person p = new Person() { Name = "P", Age = 21 };
+        Person p1 = p; // 这就是浅拷贝
+        Person p2 = BaseClone<Person>.DeepClone(p);
+        string Str = string.Format("修改前：p.Name={0},p.Age={1}", p.Name, p.Age);
+        Debug.Log(Str);
+        Str = string.Format("修改前：p1.Name={0},p1.Age={1}", p1.Name, p1.Age);
+        Debug.Log("p2" + p2);
+        Debug.Log(Str);
+        Str = string.Format("修改前：p2.Name={0},p2.Age={1}", p2.Name, p2.Age);
+        Debug.Log(Str);
+
+        //修改P1的值
+        p1.Name = "PM";
+        p1.Age = 30;
+
+
+        Str = string.Format("修改后：p.Name={0},p.Age={1}", p.Name, p.Age);
+        Debug.Log(Str);
+        Str = string.Format("修改后：p1.Name={0},p1.Age={1}", p1.Name, p1.Age);
+        Debug.Log(Str);
+        Str = string.Format("修改后：p2.Name={0},p2.Age={1}", p2.Name, p2.Age);
+        Debug.Log(Str);
+
+
+        #endregion
+        */
     }
 
 }
