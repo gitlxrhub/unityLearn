@@ -95,6 +95,8 @@
     <Compile Include="Assets/Scripts/Design/Factory/Factory Method/ProductA.cs" />
     <Compile Include="Assets/Scripts/Design/Proxy/Subject.cs" />
     <Compile Include="Assets/Scripts/Design/Builder/ColdDrink.cs" />
+    <Compile Include="Assets/Scripts/Design/Adapter/IAdvancedMediaPlayer.cs" />
+    <Compile Include="Assets/Scripts/Design/Adapter/VlcPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
